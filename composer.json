@@ -1,6 +1,7 @@
 {
     "name": "private-package/test",
     "description": "A private package test",
+    "version": "1.0",
     "require": {
         "php": ">=7.4"
     }
