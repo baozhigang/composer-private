@@ -1,3 +1,11 @@
 <?php
 
-echo 'Hello Composer';
+namespace Privatepackage;
+
+class Test
+{
+    public function t()
+    {
+        return 'Hello Composer';
+    }
+}
